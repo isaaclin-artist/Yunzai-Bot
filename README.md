@@ -9,7 +9,7 @@
 >[Linux环境一键搭建](https://github.com/Le-niao/Yunzai-Bot/issues/3)，[Windows按下面的就行](https://www.bilibili.com/read/cv15119056)，[安卓手机搭建](https://www.bilibili.com/read/cv15126105)
 ```
 1.克隆项目
-git clone https://github.com/Le-niao/Yunzai-Bot.git
+git clone https://github.com/Yummy-cookie/Yunzai-Bot.git
 cd Yunzai-Bot
 
 用cnpm安装
